@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{51FD79C6-FEFB-808B-BC69-C08062F3BBEE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/robotSpawner.cs">
+    <Files>
+      <File FileName="Assets/scripts/controller3d.cs" Line="114" Column="33" />
+      <File FileName="Assets/scripts/car.cs" Line="63" Column="14" />
+      <File FileName="Assets/scripts/inventoryScript.cs" Line="41" Column="64" />
+      <File FileName="Assets/scripts/cameraScript.cs" Line="20" Column="9" />
+      <File FileName="Assets/scripts/enemyScript.cs" Line="25" Column="53" />
+      <File FileName="Assets/scripts/Weapon.cs" Line="52" Column="22" />
+      <File FileName="Assets/scripts/robotSpawner.cs" Line="75" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
